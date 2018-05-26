@@ -4,8 +4,8 @@
 
 *	11 May 2012: Formation of [official](https://user-images.githubusercontent.com/8757115/40573864-8966432e-60e5-11e8-9ab1-2babc46845be.png) cultural club
 *	08 December 2012: First official cultural club event: In-House Art Exhibition
-*	31 August 2013: Announcement for regular screening of Indian Movies
 * 08 May 2013: Tagore Birthday celebration (closed door performance)
+*	31 August 2013: Announcement for regular screening of Indian Movies
 * 31 December 2013: New year celebration (closed door performance)
 *	14 August 2014: First public dance program on classical dance forms of India in Dasheri, NCBS
 *	29 November 2014: Announcement for Cultural Club theatre wing
