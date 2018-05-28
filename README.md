@@ -1,12 +1,12 @@
-**Cultural club** of NCBS/inStem was conceived in May 2012. First public announcement was done on 11 May 2012 regarding the same. Cultural club currently hosts Dance Club, StageCraft (theatre group), Music Club, Art Society, StageFright (improve comedy group) and Movie Club. 
+**Cultural club** of NCBS/inStem was conceived in May 2012. First public announcement was done on 11 May 2012 regarding the same. Cultural club currently hosts Dance Club, StageCraft (theatre group), Music Club, Art Society, StageFright (improv comedy group) and Movie Club. 
 
 #### Events and milestones of cultural club 
 
 *	11 May 2012: Formation of [official](https://user-images.githubusercontent.com/8757115/40573864-8966432e-60e5-11e8-9ab1-2babc46845be.png) cultural club
 *	08 December 2012: First official cultural club event: In-House Art Exhibition
-* 08 May 2013: Tagore Birthday celebration (closed door performance)
+*   08 May 2013: Tagore Birthday celebration (closed door performance)
 *	31 August 2013: Announcement for regular screening of Indian Movies
-* 31 December 2013: New year celebration (closed door performance)
+*   31 December 2013: New year celebration (closed door performance)
 *	14 August 2014: First public dance program on classical dance forms of India in Dasheri, NCBS
 *	29 November 2014: Announcement for Cultural Club theatre wing
 *	23 January 2015: Dance performance: [Colors of India](/events/2015/colors_of_india.md)
@@ -22,7 +22,7 @@
 *	03 November 2015: Cultural club invited performance at Vivanta by Taj 
 *	23 March 2016: Announcement for official ‘Dance Club’ as a dance wing of cultural club
 *	28 March 2016: Unofficial announcement of ‘StageFright’: Improv Comedy wing 
-*	03 April 2016: First closed-door event of StageFright: Improve Comedy
+*	03 April 2016: First closed-door event of StageFright: Improv Comedy
 *	29 April 2016: Theatre performance: Five: Season 2
 *	19 May 2016: Flash Mob dance at NCBS Canteen
 *	20 May 2016: Dance performance: Rasa – The Experience
@@ -38,6 +38,6 @@
 *	28 October 2017: Art Jamming
 *	08 December 2017: Music performance: Saptak - Indian Folk music concert
 *	02 June 2017: Dance performance: [Box Office](/events/2017/box_office.md)
-*	05 April 2018: Improve performance: Stagefright Caught Off Guard
-*	24 May 2018: Improve performance: StageFright- bigger, bolder, and better
+*	05 April 2018: Improv performance: Stagefright Caught Off Guard
+*	24 May 2018: Improv performance: StageFright- bigger, bolder, and better
 *	25 May 2018: Dance performance: [Chali Kahani](/events/2018/chali_kahani.md)
