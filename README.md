@@ -42,3 +42,4 @@
 *	24 May 2018: Improv performance: StageFright- bigger, bolder, and better
 *	25 May 2018: Dance performance: [Chali Kahani](/events/2018/chali_kahani.md)
 * 10 Sep 2018: Music performance: Sauraagini - Glimpse of Indian Classical Music 
+* 08 Oct 2018: Improv performance: Not Yet Disclosed - A stagefright enterprise
