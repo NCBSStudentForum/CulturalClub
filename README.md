@@ -2,7 +2,7 @@
 
 #### Events and milestones of cultural club 
 
-*	11 May 2012: Formation of [official](https://user-images.githubusercontent.com/8757115/40573864-8966432e-60e5-11e8-9ab1-2babc46845be.png) cultural club
+*	5 Nov 2012: Formation of [official](https://user-images.githubusercontent.com/8757115/40573864-8966432e-60e5-11e8-9ab1-2babc46845be.png) cultural club
 *	08 December 2012: First official cultural club event: In-House Art Exhibition
 *   08 May 2013: Tagore Birthday celebration (closed door performance)
 *	31 August 2013: Announcement for regular screening of Indian Movies
